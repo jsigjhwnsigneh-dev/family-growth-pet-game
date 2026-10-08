@@ -1,0 +1,25 @@
+# Credentials and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+
+# Family/private data must never enter this public repository
+private/
+family-data/
+runtime-data/
+backup/
+backups/
+uploads/
+*.sqlite
+*.sqlite3
+*.db
+
+# Local build and tools
+node_modules/
+dist/
+build/
+.DS_Store
