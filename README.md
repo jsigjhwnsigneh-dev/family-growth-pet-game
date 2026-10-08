@@ -16,7 +16,7 @@
 
 ## 当前调查结论
 
-**Tamaweb值得重点继续核验，但资产授权与家庭接入尚未过关；Tamagochi / Mori为较小规模技术备选，不能自动等同成熟完整世界。** 本轮没有选定游戏、发布游戏或开始产品编码。来源与证据限制见下方调查报告。
+**Tamaweb值得优先继续核验，但资产授权与家庭接入尚未过关；Bunbons作为养成与探索的比较候选；Tamagochi / Mori为较小规模技术备选，不能自动等同成熟完整世界。** 本轮没有选定游戏、发布游戏或开始产品编码。试玩尝试不等于已经通过，来源与证据限制见下方记录。
 
 ## 项目文档
 
@@ -31,8 +31,11 @@
 | [07｜成熟游戏选型标准](docs/07-游戏底座选型标准.md) | 开源项目核验与复用成本对比方法 | 调研标准 |
 | [08｜能力归属与集成边界](docs/08-能力归属与集成边界.md) | 成熟游戏、成长模块、连接、设备与运维边界 | 调查基线 |
 | [09｜验收场景与反例](docs/09-验收场景与反例.md) | 22个正向及异常场景 | 定制功能场景尚未执行 |
-| [10｜第三阶段候选调查](docs/10-第三阶段候选调查.md) | 主要候选、固定源码、授权与工程缺口 | 首轮调查，非最终选型 |
-| [11｜候选能力覆盖矩阵](docs/11-候选能力覆盖矩阵.md) | 两个重点候选逐项对应52个REQ | 区分源码证据、文档、扩展与未知 |
+| [10｜第三阶段初始调查](docs/10-第三阶段候选调查.md) | 首批重点候选、固定源码、授权与工程缺口 | 首轮初始记录，非最终选型 |
+| [10补充｜候选筛选与源码初查](docs/10-第三阶段候选筛选与源码初查.md) | 增加Bunbons、Koi Farm等比较，明确授权和最小改造条件 | 扩展初查记录 |
+| [11｜初始两候选矩阵](docs/11-候选能力覆盖矩阵.md) | 首批两个候选对应52项REQ | 保留初稿供追溯 |
+| [11扩展｜三候选52项矩阵](docs/11-候选能力初筛矩阵.md) | Tamaweb、Bunbons、Mori逐项对照 | 当前扩展矩阵，未实测项明确标记 |
+| [12｜运行验证记录](docs/12-候选运行验证记录.md) | 试玩尝试、源码构建与目标设备证据限制 | 未取得证据的项目不得算通过 |
 
 ## 现实成长与游戏的完整闭环
 
@@ -48,7 +51,7 @@
 - [x] 建立需求草案、可扩展任务库和功能追踪
 - [x] [阶段1｜正式确认产品需求基线](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/1) —— 总体方向已确认，细节保持开放
 - [x] [阶段2｜形成可验收的完整功能清单](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/2) —— 用户授权进入第三阶段；完成的是设计，不是52项已实现
-- [ ] [阶段3｜成熟宠物游戏调查与源码级选型](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/3) —— **当前阶段，调查进行中**
+- [ ] [阶段3｜成熟宠物游戏调查与源码级选型](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/3) —— **当前阶段，调查进行中，G1未通过**
 - [ ] [阶段4｜最小改造与家庭任务—宠物奖励闭环](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/4)
 - [ ] [阶段5｜真实家庭试用、交付与恢复验收](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/5)
 - [ ] [关键技术风险｜华为平板其他娱乐App限制及解锁](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/6) —— 已有官方资料核查，尚无任务联动及真机实证
