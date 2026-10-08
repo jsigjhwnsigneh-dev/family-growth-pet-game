@@ -34,14 +34,15 @@
 
 这是一个**公开仓库**。不得提交真实儿童姓名、照片、语音、定位、学校及家庭实际使用记录，不得提交密码和密钥。源代码许可与宠物形象、字体、音乐等素材许可必须分别核实。尚未选定游戏底座和最终许可证，**本仓库公开可见不等于允许自由复制其中的所有内容**。
 
-## 当前进度
+## 阶段追踪（GitHub Issues）
 
 - [x] 决定采用成熟游戏为主体的 B 方案
-- [x] 确认五阶段推进路线与 GitHub 项目资料入口
-- [x] 整理第一版需求、任务候选库和功能追踪
-- [ ] 最后一轮需求复核与适龄任务奖励制度定稿
-- [ ] 可验证能力清单冻结
-- [ ] 游戏底座源码、授权、实机运行与适配能力调查
-- [ ] 核心联动开发、真实家庭试用与最终验收
+- [x] 建立需求草案、可扩展任务库与功能追踪（已入库）
+- [ ] [阶段 1｜正式确认产品需求基线](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/1) —— **当前阶段**
+- [ ] [阶段 2｜形成可验收的完整功能清单](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/2)
+- [ ] [阶段 3｜成熟宠物游戏调查与源码级选型](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/3)
+- [ ] [阶段 4｜最小改造与家庭任务—宠物奖励闭环](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/4)
+- [ ] [阶段 5｜真实家庭试用、交付与恢复验收](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/5)
+- [ ] [关键技术风险｜华为平板其他娱乐 App 限制及解锁](https://github.com/jsigjhwnsigneh-dev/family-growth-pet-game/issues/6)
 
-当前资料不是游戏成品，不代表任何候选项目已被采用。
+GitHub Issues 已可作为阶段追踪入口；**GitHub Projects 图形看板尚未创建**，今后可将上述事项关联进去，不需要重复维护另一套需求。当前资料不是游戏成品，不代表任何候选项目已被采用。
